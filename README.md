@@ -2,6 +2,8 @@ git clone https://github.com/greyhat3671/sam-old-1.git
 
 cd sam-old-1
 
+python sam-old-1.py
+
 ls
 
-python sam-old-1.py
+python SAM.OLD1.py
